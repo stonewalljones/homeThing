@@ -172,5 +172,5 @@ i2c:
   id: bus_a
   frequency: 100hz
 
-seesaw:
+
 
